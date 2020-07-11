@@ -1,0 +1,35 @@
+body{
+    background-color:green;
+    margin-top:200px;
+}
+h1{
+    color:white;
+    display: inline-block;
+    margin:17px;
+    font-size: 40px;
+
+}
+h2{
+    color:white;
+    font-weight: bold;
+    font-size: 28px;
+    padding-top:4px;
+}
+button{
+    margin:10px;
+    height:28px;
+    width:53px;
+    color:blue;
+    
+
+    
+   
+}
+.screen{
+    background-color: red;
+    height:188px;
+    width:280px;
+}
+.display{
+    background-color: #444;
+}
